@@ -1,0 +1,6 @@
+D:\visual proj\FootGolf\FootGolf\bin\Debug\FootGolf.exe.config
+D:\visual proj\FootGolf\FootGolf\bin\Debug\FootGolf.exe
+D:\visual proj\FootGolf\FootGolf\bin\Debug\FootGolf.pdb
+D:\visual proj\FootGolf\FootGolf\obj\Debug\FootGolf.csproj.CoreCompileInputs.cache
+D:\visual proj\FootGolf\FootGolf\obj\Debug\FootGolf.exe
+D:\visual proj\FootGolf\FootGolf\obj\Debug\FootGolf.pdb
